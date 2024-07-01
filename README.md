@@ -1,2 +1,2 @@
 # Developing-a-Predictive-Model-for-Restaurant-Closure-Leveraging-Yelp-Reviews-with-Machine-Learning.
- ChatGPT This project uses Yelp data and machine learning to identify key factors impacting restaurant closures, emphasizing adaptability to customer preferences and changing trends amid global events like COVID-19. It offers actionable insights to guide strategic decisions and enhance resilience in the competitive restaurant industry.
+ This project uses Yelp data and machine learning to identify key factors impacting restaurant closures, emphasizing adaptability to customer preferences and changing trends amid global events like COVID-19. It offers actionable insights to guide strategic decisions and enhance resilience in the competitive restaurant industry.
